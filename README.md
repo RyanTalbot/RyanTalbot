@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+| [**TCGdex**](https://www.tcgdex.dev/) | A Multilanguage Pokémon TCG Database with Cards Pictures and most of the informations contained on the cards. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+
+| [**TCGdex**](https://www.tcgdex.dev/) | A Multilanguage Pokémon TCG Database with Cards Pictures and most of the informations contained on the cards. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
