@@ -20,3 +20,5 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 
 <!-- ### Current Projects -->
+
+<!-- ### Open Source Contributions -->
