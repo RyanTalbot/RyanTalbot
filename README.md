@@ -22,6 +22,9 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 
-<!-- ### Current Projects -->
+### Current Projects
+
+twin - CLI program to download project templates from GitHub
+Merlin UI - Lightweight SCSS framework
 
 <!-- ### Open Source Contributions -->
