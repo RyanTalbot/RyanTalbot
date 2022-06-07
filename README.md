@@ -24,7 +24,8 @@
 
 ### Current Projects
 
-twin - CLI program to download project templates from GitHub
-Merlin UI - Lightweight SCSS framework
+**twin** - CLI program to download project templates from GitHub
+
+**Merlin UI** - Lightweight SCSS framework
 
 <!-- ### Open Source Contributions -->
