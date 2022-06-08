@@ -7,7 +7,6 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 
 ### Technologies
 
@@ -20,12 +19,11 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 
-### Current Projects
+<!-- ### Current Projects -->
 
-**twin** - CLI program to download project templates from GitHub
+<!-- **twin** - CLI program to download project templates from GitHub -->
 
-**Merlin UI** - Lightweight SCSS framework
+<!-- **Merlin UI** - Lightweight SCSS framework -->
 
 <!-- ### Open Source Contributions -->
