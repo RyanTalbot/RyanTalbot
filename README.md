@@ -6,7 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+<!-- ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) -->
 
 ### Technologies
 
